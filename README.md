@@ -1,5 +1,5 @@
 # GeneralStack
-## DESCRIPTION
+## Description
   A general implementation of a single type stack. The item's size must be
   specified at runtime for Initialization and an item comparison function must
   be supplied for Search.

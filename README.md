@@ -24,6 +24,6 @@ Stack always has at least the starting table allocated.
 - pop
 
 ## Dependencies:
-- stdlib.h
-- string.h
+- stdlib
+- string
 

@@ -10,16 +10,16 @@ another one is allocated and the new table's size grows linearly. The
 Stack always has at least the starting table allocated.
   
 ## Function list:
-### A) Initialization & Termination
+### Initialization & Termination
 - initStack  
 - freeStack  
-### B) Properties
+### Properties
 - isStackEmpty
 
-### D) Search
+### Search
 - itemExists
 
-### E) Insertion & Removal
+### Insertion & Removal
 - push
 - pop
 

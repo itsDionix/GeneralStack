@@ -30,10 +30,10 @@
  *    B) Properties
  *        isStackEmpty
  *
- *    D) Search
+ *    C) Search
  *        itemExists
  *
- *    E) Insertion & Removal
+ *    D) Insertion & Removal
  *       push
  *		 pop
  *

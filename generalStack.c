@@ -1,5 +1,5 @@
 /******************************************************************************
- *  Copyright (C) 2019 - Haohua Dong e Diogo Antunes
+ *  Copyright (C) 2019 - Haohua Dong & Diogo Antunes
  *
  *  This file is a part of GeneralStack.
  *
